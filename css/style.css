@@ -302,7 +302,7 @@ th {
         border: 1px solid #000;
     }
 
-    .table {
+    /* .table {
         border-collapse: collapse !important;
     }
 
@@ -314,7 +314,7 @@ th {
     .table-bordered th,
     .table-bordered td {
         border: 1px solid #ddd !important;
-    }
+    } */
 }
 
 @font-face {
@@ -2965,9 +2965,9 @@ pre code {
     }
 }
 
-table {
+/* table {
     background-color: transparent;
-}
+} */
 
 caption {
     padding-top: 8px;
@@ -2980,7 +2980,7 @@ th {
     text-align: left;
 }
 
-.table {
+/* .table {
     width: 100%;
     max-width: 100%;
     margin-bottom: 20px;
@@ -3238,7 +3238,7 @@ table th[class*="col-"] {
     .table-responsive > .table-bordered > tfoot > tr:last-child > td {
         border-bottom: 0;
     }
-}
+} */
 
 fieldset {
     min-width: 0;
